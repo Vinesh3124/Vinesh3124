@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I am a Full Stack Developer recently graduated from Masai school and looking for a career as a Full Stack Developer.
+🌱 I am a Frontend Developer working at NoBroker.com.
 
 ⚡ I am interested in creating well designed or pixel-perfect Frontend with functionality and take on new challenges where I can learn more about web technologies.
 
